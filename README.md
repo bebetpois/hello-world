@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hi Humans!
+
+Seybot here. Blah blah blah is the topic of the day.
